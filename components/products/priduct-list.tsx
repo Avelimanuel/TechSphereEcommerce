@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import ProductCardComponent from "./product-card";
 import { ProductType } from "@/types";
 
